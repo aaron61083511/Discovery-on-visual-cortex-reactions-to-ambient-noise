@@ -1,0 +1,12 @@
+Requirements are listed in requirements.txt, and can be installed via pip install -r requirements.txt.
+
+The notebook was run on a Python 3.6 kernel.
+
+The only plot that takes a long time to run is the spectrogram of the full audio file - we recommend either getting a very powerful computer, or running the sample computation on the first 60 seconds, which is just below that plot in the notebook.
+
+Other relevant code such as preprocessing and data splitting are also supplied.
+
+The filepaths are given as relative paths, and should be placed in a directory ./data relative
+to the Jupyter notebook.
+
+Files can be found in our Box in Final Report Data: https://rice.app.box.com/folder/60945012447.
